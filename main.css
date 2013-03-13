@@ -1,0 +1,11 @@
+/* Se crea una carpeta css en la cual colocamos lo siguiente:  */
+#redondo {
+  border: 1px solid #696;
+	padding: 60px 0;
+	text-align: center; width: 200px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	background: #EEFF99;
+	behavior: url('pie/PIE.htc');
+}
